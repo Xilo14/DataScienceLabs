@@ -1,0 +1,3 @@
+.venv/*
+src/Lab1/test.csv
+src/Lab1/train.csv
